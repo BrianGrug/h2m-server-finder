@@ -47,5 +47,3 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 ## Contact
 
 If you have any questions or suggestions, feel free to open an issue or contact me at [brian@grug.dev].
-
-```
